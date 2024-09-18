@@ -28,7 +28,7 @@ nav ul li a {
 }
 
 #intro {
-    background: url('images/cover-image.jpg') no-repeat center center/cover;
+    background: url('https://ibb.co/89t8WtS') no-repeat center center/cover;
     height: 100vh;
     display: flex;
     flex-direction: column;
